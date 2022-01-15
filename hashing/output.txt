@@ -1,0 +1,18 @@
+Bucket 0-> apple-> 
+Bucket 1-> kiwi-> 
+Bucket 2-> 
+Bucket 3-> 
+Bucket 4-> litchi-> 
+Bucket 5-> 
+Bucket 6-> 
+Bucket 7-> 
+Bucket 8-> 
+Bucket 9-> papaya-> 
+Bucket 10-> mango-> 
+Bucket 11-> 
+Bucket 12-> banana-> 
+Bucket 13-> 
+Bucket 14-> 
+Fruit is not present
+new fruit cost is : 130 
+updated new  fruit cost is : 170 

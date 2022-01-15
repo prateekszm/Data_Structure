@@ -1,0 +1,4 @@
+vertices are: 0-> 1 2 
+vertices are: 1-> 0 2 
+vertices are: 2-> 0 1 2 2 
+vertices are: 3-> 

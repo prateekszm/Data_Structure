@@ -1,0 +1,29 @@
+Enter the number of activities:-
+Enter the start_time and finish_time of activity:1
+Start_Time:-
+Finish_time:-
+Enter the start_time and finish_time of activity:2
+Start_Time:-
+Finish_time:-
+Enter the start_time and finish_time of activity:3
+Start_Time:-
+Finish_time:-
+Enter the start_time and finish_time of activity:4
+Start_Time:-
+Finish_time:-
+Enter the start_time and finish_time of activity:5
+Start_Time:-
+Finish_time:-
+Enter the start_time and finish_time of activity:6
+Start_Time:-
+Finish_time:-
+Enter the start_time and finish_time of activity:7
+Start_Time:-
+Finish_time:-
+Enter the start_time and finish_time of activity:8
+Start_Time:-
+Finish_time:-
+Enter the start_time and finish_time of activity:9
+Start_Time:-
+Finish_time:-
+Activities Selected:-(-1933289728, -1636539901), (16777216, 0), (9, 0), (1440407904, 21972), (798879104, 32764), (798879472, 32764), (798879152, 32764), (798879232, 32764), 

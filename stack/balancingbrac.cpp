@@ -57,24 +57,24 @@ void balancingByStack(string &str){
 }
 /*Main code start here*/
 int main(){
-	#ifndef ONLINE_JUDGE
-		freopen("input.txt","r",stdin);
-		freopen("output.txt","w",stdout);
-	#endif
-	string str;
+	// #ifndef ONLINE_JUDGE
+	// 	freopen("input.txt","r",stdin);
+	// 	freopen("output.txt","w",stdout);
+	// #endif
+	string str= "((()))";
 	/*for (int i = 0; i < 5; ++i)
 	{
 		cin>>s;
 		balancing(s);
 	}*/
 	stack<char> s;
-	for (int i = 0; i < 5; ++i)
-		{
-			cin>>str;
+	// for (int i = 0; i < 5; ++i)
+		// {
+			// cin>>str;
 			balancingByStack(str);
-		}
+		// }
 
-	cout<<rand()%100;
+	// cout<<rand()%100;
 	// cout<<rand()<<endl;
 	// cout<<rand()<<endl;
 	// cout<<rand()<<endl;

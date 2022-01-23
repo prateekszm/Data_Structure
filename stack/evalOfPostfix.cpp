@@ -39,3 +39,4 @@ int main(){
 	}
 	cout<<st.top();
 }
+

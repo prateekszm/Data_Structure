@@ -1,7 +1,5 @@
-// #include<bits/stdc++.h>
-// #include <iostream>
 #include <climits>
-using namespace std;
+using namespace std; 
 
 template<typename T>
 class Stack;
@@ -53,8 +51,9 @@ void Stack<T>:: pop(){
 		delete temp;
 	}
 }
+//This is not in stack class
 template <typename T>
-void Stack<T>:: display(){  // This thing is not in stack class property
+void Stack<T>:: display(){  
 	Node<T> *temp = head;
 	while(temp!=NULL){
 		cout<<temp -> val<<" ";
@@ -62,16 +61,3 @@ void Stack<T>:: display(){  // This thing is not in stack class property
 	}
 }
 
-// int main(){
-// 	#ifndef ONLINE_JUDGE
-// 		freopen("input.txt", "r", stdin);
-// 		freopen("output.txt", "w", stdout);
-// 	#endif
-// 	// template <typename T>
-// 	Stack<int> st;
-// 	st.push(1);
-// 	st.push(2);
-// 	st.push(3);
-
-// 	st.display();
-// }

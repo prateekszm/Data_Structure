@@ -33,6 +33,11 @@ void arrangePtveNegtv(int *arr,int size){
     
 }
 int main(){
+    #ifndef ONLINE_JUDGE
+        freopen("input.txt","r",stdin);
+        freopen("output.txt","w",stdout);
+    #endif
+    
     int arr[20]{1,2,3,4,5,6,7,8,9,10,12,13,14,15};
     int length=14;
     int key =11;
